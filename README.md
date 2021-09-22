@@ -1,2 +1,2 @@
 # skeleton-loading-demo
-Created with CodeSandbox
+Demo: [Skeleton Loading](https://codesandbox.io/s/github/amitkhonde/skeleton-loading-demo/tree/main/)
